@@ -3,5 +3,9 @@ This file contains all the details.
 This would be useful.
 This file is important.
 Sharing.
+<<<<<<< HEAD
 Formation.
 Teacher.
+=======
+Formation.
+>>>>>>> new-branch-1
