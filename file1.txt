@@ -5,9 +5,4 @@ This file is important.
 Sharing.
 Formation.
 Teacher.
-<<<<<<< HEAD
-First one.
-Second one.
-=======
-First one.
->>>>>>> new-branch-1
+Indicator.
