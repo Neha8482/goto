@@ -1,1 +1,6 @@
-This is the new file
+This is the new file.
+This file contains all the details.
+This would be useful.
+This file is important.
+Sharing.
+Information.
